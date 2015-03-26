@@ -1,0 +1,12 @@
+1. possible combinations:
+     5-6
+     5-6(there are 2 fives)
+2. No, because if the deck is shuffled in just the right way, on the first deal whe n the cards are put on the table, 
+   there could be a king,queen, and a jack. If the player removes them and replaces them with three new cards, the three
+   new cards could be a king, queen, and a jack. This could repeat until there are no more kings, queens, or jacks in 
+   the deck. If this happens, the last 3 cards won't be kings, queens, or jacks because there aren't anymore of them in 
+   the deck.
+3. There might be some strategy in the game if the player is thinking about how many of each card are still in the deck
+   when they are choosing which cards to remove. The player could think about the chances of another card being next so it 
+   can add up to 11 and remove another card so they have a chance to get another card on the table to take off 3 cards if 
+   they could remove a king, queen, and jack with the new card.
